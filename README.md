@@ -1,7 +1,7 @@
 Text-Based-Games-Core-Library
 =============================
 
-The core library for my test based games engine that can be used to create text based games that run in a console.
+The core library for my text based game engine that can be used to create text based games that run in a console.
 Includes the GUI, basic commands, and input handling.
 
 <p>Language: Java</p>
